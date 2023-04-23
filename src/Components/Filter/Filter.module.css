@@ -1,0 +1,13 @@
+.label {
+  display: block;
+  font-size: 20px;
+  margin-bottom: 30px;
+}
+
+.label > input {
+  display: block;
+  min-width: 350px;
+  height: 30px;
+  margin: 15px 0 0 0;
+  border-radius: 5px;
+}
